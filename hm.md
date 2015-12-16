@@ -36,7 +36,7 @@ Is the assessment of the provision of PSI done at a sufficiently high level to m
 [The Value of Open Data](http://theodi.org/the-value-of-open-data)  
 [Infonomics](https://en.wikipedia.org/wiki/Infonomics)  
 
-# Implementations, Guidelines and Contact points
+# Implementations, Guidelines and Contacts
 
 | Country | Initiative | Contact Point |
 |---|---|---:|
